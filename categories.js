@@ -61,7 +61,7 @@ var categories = {
     ]
   },
   "minecraft_hmobs": {
-    "name": "Minecraft Mobs",
+    "name": "Hostile Mobs",
     "source": "http://https://www.digminecraft.com/mobs/index.php/",
     "values": [
       "Blaze",
