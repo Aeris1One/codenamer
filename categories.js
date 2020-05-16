@@ -1,5 +1,5 @@
 var categories = {
-  "minecraft_mobs": {
+  "minecraft_pmobs": {
     "name": "Passive Mobs",
     "source": "http://https://www.digminecraft.com/mobs/index.php/",
     "values": [
@@ -34,7 +34,7 @@ var categories = {
       "Iron golem"
     ]
   }
-  "minecraft_mobs": {
+  "minecraft_hmobs": {
     "name": "Minecraft Mobs",
     "source": "http://https://www.digminecraft.com/mobs/index.php/",
     "values": [
