@@ -33,7 +33,33 @@ var categories = {
       "Bee",
       "Iron golem"
     ]
-  }
+  },
+  "minecraft_effects": {
+    "name": "Potion Effects",
+    "source": "https://",
+    "values": [
+      "Speed",
+      "Slowness",
+      "Haste",
+      "Mining Fatigue",
+      "Strength",
+      "Instant Health",
+      "Instant Damage",
+      "Jump Boost",
+      "Nausea",
+      "Regeneration",
+      "Resistance",
+      "Fire Resistance",
+      "Water Breathing",
+      "Invisibility",
+      "Blindness",
+      "Night Vision",
+      "Hunger",
+      "Weakness",
+      "Poison",
+      "Wither"
+    ]
+  },
   "minecraft_hmobs": {
     "name": "Minecraft Mobs",
     "source": "http://https://www.digminecraft.com/mobs/index.php/",
